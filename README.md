@@ -17,8 +17,19 @@ El dataset contiene:
 ## Resultados
 
 Hemos construído el modelo utilizando el AdaBoost Classifier. Hemos validado los resultados mediante cross validation y finalmente hemos ajustado los hiperparámetros con GridSearch. Los resultados obtenidos con el dataset de train son:
-- Accuracy: 0.978
+- Accuracy:  0.978
 - Precision: 0.968
-- Recall: 0.9687
-- Roc_Auc: 0.976
+- Recall:    0.9687
+- Roc_Auc:   0.976
 
+## Requisitos
+
+Este notebook requiere Python 3.6 o versiones superiores
+
+Necesitas tener instaladas las siguientes librerías:
+ pip install pandas
+ pip install numpy
+ pip install matplotlib
+ pip install seaborn
+ pip install scipy
+ pip install -U scikit-learn
