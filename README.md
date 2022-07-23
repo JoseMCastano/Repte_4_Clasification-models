@@ -16,8 +16,9 @@ El dataset contiene:
 
 ## Resultados
 
-Hemos construído el modelo utilizando el AdaBoost Classifier. Hemos validado los resultados mediante cross validation y finalmente hemos ajustado los hiperparámetros con GridSearch.
+Hemos construído el modelo utilizando el AdaBoost Classifier. Hemos validado los resultados mediante cross validation y finalmente hemos ajustado los hiperparámetros con GridSearch. Los resultados obtenidos con el dataset de train son:
+- Accuracy: 0.978
+- Precision: 0.968
+- Recall: 0.9687
+- Roc_Auc: 0.976
 
-Modelo 	             Accuracy 	Precision 	Recall 	F1 	      Roc_Auc     
-AdaBoostClassifier  	0.967033 	0.96875 	0.939394 	0.953846 	0.961076
-AdaBoost Optimizado 	0.978022 	0.96875 	0.968750 	0.968750 	0.975900
