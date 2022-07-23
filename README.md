@@ -26,10 +26,10 @@ Hemos construído el modelo utilizando el AdaBoost Classifier. Hemos validado lo
 
 Este notebook requiere Python 3.6 o versiones superiores
 
-Necesitas tener instaladas las siguientes librerías:
+Necesitas tener instaladas las siguientes librerías:    
  pip install pandas     
- pip install numpy
- pip install matplotlib
- pip install seaborn
- pip install scipy
+ pip install numpy     
+ pip install matplotlib     
+ pip install seaborn     
+ pip install scipy     
  pip install -U scikit-learn
