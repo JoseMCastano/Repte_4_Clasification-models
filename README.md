@@ -33,3 +33,11 @@ Necesitas tener instaladas las siguientes librerías:
  pip install seaborn     
  pip install scipy     
  pip install -U scikit-learn
+
+## Agradecimientos
+
+Para la ejecución de este ejercicio hemos consultado diferentes fuentes:
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+- https://towardsdatascience.com/machine-learning-part-17-boosting-algorithms-adaboost-in-python-d00faac6c464
+- https://machinelearningmastery.com/adaboost-ensemble-in-python/
+- https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501
